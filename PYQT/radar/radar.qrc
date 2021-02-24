@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>enemy10x10.png</file>
+    <file>radar400x400.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+
+pyqt5designer myButton.ui
+pyuic5.exe .\myButton.ui -o myButton.py
+pyrcc5.exe .\test.qrc -o .\myPointer.py qrc to py file
